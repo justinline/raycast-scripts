@@ -1,2 +1,4 @@
 gitignored
 env.sh
+
+.DS_Store
